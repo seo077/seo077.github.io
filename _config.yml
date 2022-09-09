@@ -105,7 +105,7 @@ analytics:
 author:
   name: "seoyoung Hwang"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "서영이의 개발블로그입니다."
+  bio: "개발블로그입니다."
   location: "South Korea"
   #email: "young102473@gmail.com"
   links:
