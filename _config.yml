@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name: "seoyoung Hwang"
+  name: "developerNote"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "개발블로그입니다."
   location: "South Korea"
